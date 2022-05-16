@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "bed84d6f8d07dc43",
+    "type": "split",
+    "children": [
+      {
+        "id": "557b8b14d7c88264",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Audio Signal Processing for Machine Learning/5 - Types of Audio Features for ML.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37c1d637b404faaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0df1a92705971a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578a144ffa2701ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b09954e15a560b78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26a5a50dd784e0b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2995105c2401bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac19cf05f7c8e07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Audio Signal Processing for Machine Learning/5 - Types of Audio Features for ML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "557b8b14d7c88264",
+  "lastOpenFiles": [
+    "Audio Signal Processing for Machine Learning/5 - Types of Audio Features for ML.md",
+    "5 - Types of Audio Features for ML.md"
+  ]
+}
