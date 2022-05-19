@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "557b8b14d7c88264",
+        "id": "6ab0ce4c3697438c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Audio Signal Processing for Machine Learning/5 - Types of Audio Features for ML.md",
+            "file": "Audio Signal Processing for Machine Learning/06 - How to Extract Audio Features.md",
             "mode": "source",
             "source": false
           }
@@ -69,13 +69,36 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Audio Signal Processing for Machine Learning/5 - Types of Audio Features for ML.md",
+                "file": "Audio Signal Processing for Machine Learning/06 - How to Extract Audio Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ad86af555529efb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab0fae68ed4e1a10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Audio Signal Processing for Machine Learning/06 - How to Extract Audio Features.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -87,9 +110,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "557b8b14d7c88264",
+  "active": "6ab0ce4c3697438c",
   "lastOpenFiles": [
-    "Audio Signal Processing for Machine Learning/5 - Types of Audio Features for ML.md",
+    "Audio Signal Processing for Machine Learning/06 - How to Extract Audio Features.md",
+    "Audio Signal Processing for Machine Learning/assets/Pasted image 20220516160613.png",
+    "Audio Signal Processing for Machine Learning/05 - Types of Audio Features for ML.md",
+    "Audio Signal Processing for Machine Learning/assets/Pasted image 20220516154728.png",
+    "Audio Signal Processing for Machine Learning/assets/Pasted image 20220516154429.png",
+    "Audio Signal Processing for Machine Learning/assets/Pasted image 20220516154207.png",
     "5 - Types of Audio Features for ML.md"
   ]
 }
