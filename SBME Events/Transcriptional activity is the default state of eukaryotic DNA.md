@@ -21,7 +21,7 @@
 But they have distinct lifestyles and abilities to fix mutations due to effective population sizes
 
 #### deBoer Lab Approach
-![Pasted image 20220630111909.png](SBME Events\assets\deboer_6_30_22\Pasted%20image%2020220630111909.png)
+![Pasted image 20220630111909.png](assets/deboer_6_30_22/Pasted%20image%2020220630111909.png)
 
 ## Part 2: Transcription is the default state of the genome
 ### Random DNA has diverse expression in yeast
@@ -34,7 +34,7 @@ But they have distinct lifestyles and abilities to fix mutations due to effectiv
 	- ~1 billion years of evolution seperated
 	- Few TFs conserved
 	- Distinct gene regulatory structure
-![Pasted image 20220630112412.png](SBME Events\assets\deboer_6_30_22\Pasted%20image%2020220630112412.png)
+![Pasted image 20220630112412.png](assets/deboer_6_30_22/Pasted%20image%2020220630112412.png)
 
 - Analysis Approach: Compare expression of endogenous yeast genome to YAC-human hybrid genome chr7
 - Naive DNA is transcribed *extensively*
@@ -42,7 +42,7 @@ But they have distinct lifestyles and abilities to fix mutations due to effectiv
 	- Has more antisense expression
 - Endogenous DNA has evolved a coherent gene structure
 
-![Pasted image 20220630113054.png](SBME Events\assets\deboer_6_30_22\Pasted%20image%2020220630113054.png)
+![Pasted image 20220630113054.png](assets/deboer_6_30_22/Pasted%20image%2020220630113054.png)
 
 **Only sequenced polyA RNA**
 - None polyA RNA is degraded quite rapidly
@@ -68,10 +68,10 @@ But they have distinct lifestyles and abilities to fix mutations due to effectiv
 	- Current efforts in deBoer lab aim to measure random DNA activity
 
 ### Regulation-associated chromatin
-![Pasted image 20220630114605.png](SBME Events\assets\deboer_6_30_22\Pasted%20image%2020220630114605.png)
+![Pasted image 20220630114605.png](assets/deboer_6_30_22/Pasted%20image%2020220630114605.png)
 
 ### Random DNA is predicted to be regulatorily silent
-![Pasted image 20220630115026.png](SBME Events\assets\deboer_6_30_22\Pasted%20image%2020220630115026.png)
+![Pasted image 20220630115026.png](assets/deboer_6_30_22/Pasted%20image%2020220630115026.png)
 
 - The human genome is non-random even at the dinucleotide level
 - Naive/ evolved differences is partly due to base biases
@@ -80,4 +80,4 @@ But they have distinct lifestyles and abilities to fix mutations due to effectiv
 ### Conclusions
 - **Inactivity is the null hypothesis for humans**
 
-![Pasted image 20220630115559.png](SBME Events\assets\deboer_6_30_22\Pasted%20image%2020220630115559.png)
+![Pasted image 20220630115559.png](assets/deboer_6_30_22/Pasted%20image%2020220630115559.png)
