@@ -1,7 +1,7 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Atom",
+  "cssTheme": "Obsidian Nord",
   "textFontFamily": "Microsoft Sans Serif",
   "interfaceFontFamily": "Lucida Sans",
   "monospaceFontFamily": "Microsoft Sans Serif",

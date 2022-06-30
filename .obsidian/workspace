@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Audio Signal Processing for Machine Learning/07 - Understanding Time Domain Audio Features.md",
+            "file": "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Audio Signal Processing for Machine Learning/07 - Understanding Time Domain Audio Features.md",
+                "file": "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Audio Signal Processing for Machine Learning/07 - Understanding Time Domain Audio Features.md",
+                "file": "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "fe7f723cbd65965f",
   "lastOpenFiles": [
-    "Audio Signal Processing for Machine Learning/07 - Understanding Time Domain Audio Features.md",
+    "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
+    "Audio Signal Processing for Machine Learning/05 - Types of Audio Features for ML.md",
+    "Audio Signal Processing for Machine Learning/03 - Intensity, Loudness, and Timbre.md",
     "Audio Signal Processing for Machine Learning/06 - How to Extract Audio Features.md",
     "SBME Events/AI, Digital Pathology and Post-Pandemic Healthcare.md",
-    "SBME Events/assets/tizhoosh_5_19_22/Pasted image 20220519112059.png",
-    "SBME Events/assets/tizhoosh_5_19_22/Pasted image 20220519111429.png",
-    "SBME Events/assets/tizhoosh_5_19_22/Pasted image 20220519112132.png",
-    "Audio Signal Processing for Machine Learning/05 - Types of Audio Features for ML.md",
-    "Audio Signal Processing for Machine Learning/assets/Pasted image 20220516160613.png",
-    "Audio Signal Processing for Machine Learning/assets/Pasted image 20220516154728.png",
-    "Audio Signal Processing for Machine Learning/assets/Pasted image 20220516154429.png"
+    "SBME Events/assets/deboer_6_30_22/Pasted image 20220630115559.png",
+    "SBME Events/assets/deboer_6_30_22/Pasted image 20220630111909.png",
+    "SBME Events/assets/tizhoosh_5_19_22/Pasted image 20220524143511.png",
+    "Audio Signal Processing for Machine Learning/08 & 09 - Extracting the amplitude envelope feature from scratch in Python.md",
+    "Audio Signal Processing for Machine Learning/10 - Demystifying the Fourier Transform The Intuition.md"
   ]
 }
