@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
+            "file": "Category Theory/lecture1.md.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "26a5a50dd784e0b1",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
+                "file": "Category Theory/lecture1.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
+                "file": "Category Theory/lecture1.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +113,15 @@
   },
   "active": "fe7f723cbd65965f",
   "lastOpenFiles": [
-    "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
-    "Audio Signal Processing for Machine Learning/05 - Types of Audio Features for ML.md",
-    "Audio Signal Processing for Machine Learning/03 - Intensity, Loudness, and Timbre.md",
-    "Audio Signal Processing for Machine Learning/06 - How to Extract Audio Features.md",
+    "README.md.md",
+    "Category Theory/lecture1.md.md",
     "SBME Events/AI, Digital Pathology and Post-Pandemic Healthcare.md",
-    "SBME Events/assets/deboer_6_30_22/Pasted image 20220630115559.png",
-    "SBME Events/assets/deboer_6_30_22/Pasted image 20220630111909.png",
-    "SBME Events/assets/tizhoosh_5_19_22/Pasted image 20220524143511.png",
-    "Audio Signal Processing for Machine Learning/08 & 09 - Extracting the amplitude envelope feature from scratch in Python.md",
-    "Audio Signal Processing for Machine Learning/10 - Demystifying the Fourier Transform The Intuition.md"
+    "Category Theory/assets/Pasted image 20220814193153.png",
+    "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
+    "Audio Signal Processing for Machine Learning/12 - Defining the Fourier Transform with Complex Numbers.md",
+    "Announcement.md",
+    "SBME.md",
+    "Audio Signal Processing for Machine Learning/05 - Types of Audio Features for ML.md",
+    "Audio Signal Processing for Machine Learning/03 - Intensity, Loudness, and Timbre.md"
   ]
 }
