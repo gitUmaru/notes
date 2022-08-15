@@ -3,6 +3,7 @@
 
 ## 1.1: Intro
 * category theory is abstraction of the idea of a system of permutations of a set or symmetries of a geometric object
+* 
 ![](https://i.imgur.com/ZtSljne.png)
 
 * A category is just such an “algebra,” consisting of objects $A, B, C$, . . . and arrows $f : A \to B, g : B \to C, \dots$, that are closed under composition and satisfy certain conditions typical of the composition of functions
