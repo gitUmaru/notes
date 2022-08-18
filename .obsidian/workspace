@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Category Theory/lecture1.md.md",
+            "file": "Category Theory/lecture2.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "•",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26a5a50dd784e0b1",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Category Theory/lecture1.md.md",
+                "file": "Category Theory/lecture2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Category Theory/lecture1.md.md",
+                "file": "Category Theory/lecture2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +112,15 @@
   },
   "active": "fe7f723cbd65965f",
   "lastOpenFiles": [
+    "Category Theory/lecture1.md",
+    "Category Theory/lecture2.md",
+    "MIT/6.874/lecture4.md",
+    "MIT/6.874/lecture3.md",
+    "MIT/6.874/lecture2.md",
+    "MIT/6.874/lecture1.md",
     "README.md.md",
     "Category Theory/lecture1.md.md",
     "SBME Events/AI, Digital Pathology and Post-Pandemic Healthcare.md",
-    "Category Theory/assets/Pasted image 20220814193153.png",
-    "SBME Events/Transcriptional activity is the default state of eukaryotic DNA.md",
-    "Audio Signal Processing for Machine Learning/12 - Defining the Fourier Transform with Complex Numbers.md",
-    "Announcement.md",
-    "SBME.md",
-    "Audio Signal Processing for Machine Learning/05 - Types of Audio Features for ML.md",
-    "Audio Signal Processing for Machine Learning/03 - Intensity, Loudness, and Timbre.md"
+    "Category Theory/assets/Pasted image 20220814193153.png"
   ]
 }
